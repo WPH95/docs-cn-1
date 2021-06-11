@@ -31,7 +31,7 @@ aliases: ['/docs-cn/dev/download-ecosystem-tools/','/docs-cn/dev/reference/tools
 >
 > 下载链接中的 `{version}` 为 TiDB Lightning 的版本号。例如，`v4.0.8` 版本的下载链接为 `https://download.pingcap.org/tidb-toolkit-v4.0.8-linux-amd64.tar.gz`。
 
-## 快速备份和恢复（BR）
+!## 快速备份和恢复（BR）
 
 使用下表中的链接下载 [快速备份和恢复（BR）](/br/backup-and-restore-tool.md)：
 
